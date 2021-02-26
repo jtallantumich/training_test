@@ -6,3 +6,5 @@ NCEAS training repository
 3. Huron
 4. Erie
 5. Ontario
+
+git is a git if you don't get it
